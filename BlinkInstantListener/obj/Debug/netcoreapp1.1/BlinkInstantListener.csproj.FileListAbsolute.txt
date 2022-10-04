@@ -1,0 +1,6 @@
+c:\users\evelikov\source\repos\BlinkInstantListener\BlinkInstantListener\bin\Debug\netcoreapp1.1\BlinkInstantListener.deps.json
+c:\users\evelikov\source\repos\BlinkInstantListener\BlinkInstantListener\bin\Debug\netcoreapp1.1\BlinkInstantListener.runtimeconfig.json
+c:\users\evelikov\source\repos\BlinkInstantListener\BlinkInstantListener\bin\Debug\netcoreapp1.1\BlinkInstantListener.runtimeconfig.dev.json
+c:\users\evelikov\source\repos\BlinkInstantListener\BlinkInstantListener\obj\Debug\netcoreapp1.1\BlinkInstantListener.csprojResolveAssemblyReference.cache
+c:\users\evelikov\source\repos\BlinkInstantListener\BlinkInstantListener\obj\Debug\netcoreapp1.1\BlinkInstantListener.csproj.CoreCompileInputs.cache
+c:\users\evelikov\source\repos\BlinkInstantListener\BlinkInstantListener\obj\Debug\netcoreapp1.1\BlinkInstantListener.AssemblyInfo.cs
